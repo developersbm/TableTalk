@@ -1,0 +1,20 @@
+{
+  "include": [
+    "src",
+    "scripts",
+    "venv/Lib/site-packages"
+  ],
+  "extraPaths": [
+    "."
+  ],
+  "exclude": [
+    "**/__pycache__",
+    "datasets"
+  ],
+  "venvPath": ".",
+  "venv": "venv",
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.13",
+  "pythonPlatform": "Darwin"
+}

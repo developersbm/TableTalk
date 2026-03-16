@@ -1,0 +1,9 @@
+datasets
+python-dotenv
+numpy
+transformers>=4.50.0
+accelerate
+bitsandbytes
+typing_extensions
+torch
+scikit-learn

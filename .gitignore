@@ -1,0 +1,41 @@
+# Datasets and caches
+tokenizers/
+mock_bird/
+
+# Environment and secrets
+.env
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Output files (keep directory structure)
+outputs/*.csv
+outputs/*.json
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+outputs/
